@@ -1,0 +1,43 @@
+.container {
+    border: 1px solid black;
+    width: 30vw;
+    margin: auto;
+    margin-top: 100px;
+    background-color: lightgrey;
+}
+
+.thick {
+    font-weight: bold;
+}
+
+.age {
+    margin: 20px 0px;
+}
+
+.gender {
+    margin: 20px 0px;
+}
+
+.height {
+    margin: 20px 0px;
+}
+
+.weight {
+    margin: 20px 0px;
+}
+
+#myage {
+    margin: opx 3px;
+}
+
+.mycalculate{
+    background-color: green;
+    color: white;
+    height: 30px;
+    margin-right: 5px;
+}
+
+.myclear{
+    height: 30px;
+    background-color: grey;
+}
